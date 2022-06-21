@@ -1,1 +1,1 @@
-My first readme
+how to get on with uche
